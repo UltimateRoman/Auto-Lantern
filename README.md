@@ -1,2 +1,11 @@
 # Hack-o-Lantern
-Just another rather very interesting Halloween hack.
+
+An Arduino/Node-MCU based automatic Jack-o-Lantern.
+
+<br/>
+
+![aol1](pic1.jpg)
+
+<br/>
+
+![aol2](pic4.jpg)
