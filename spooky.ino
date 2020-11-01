@@ -32,17 +32,13 @@ void loop(){
     {
       alert_user();
       delay(10000);
-      for(int i=0;i<16;++i)
-      {
-       Serial.println("");
-      }
     } 
   }
   delay(500);
 }
 
 void alert_user(){
-  Serial.println("Triggered");
+  Serial.println('1');
   delay(1000);
   digitalWrite(alrt, HIGH);
   digitalWrite(leds, HIGH);
